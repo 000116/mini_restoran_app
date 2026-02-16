@@ -37,10 +37,3 @@ lib/
 - State management
 - Custom widgets
 
-## 🎨 Ekran Görüntüleri
-
-Uygulama modern gradient tasarım, card-based layout ve Material Design 3 ile geliştirilmiştir.
-
-## 📄 Lisans
-
-Eğitim amaçlı proje - Serbestçe kullanılabilir
