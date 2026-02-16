@@ -1,24 +1,6 @@
 # 🍽️ Mini Restoran Uygulaması
 
 Flutter ile geliştirilmiş modern restoran menü uygulaması.
-
-## 🚀 Kurulum
-
-1. Flutter SDK'nın kurulu olduğundan emin olun:
-```bash
-flutter --version
-```
-
-2. Bağımlılıkları yükleyin:
-```bash
-flutter pub get
-```
-
-3. Uygulamayı çalıştırın:
-```bash
-flutter run
-```
-
 ## 📱 Özellikler
 
 - ✅ Ana Sayfa - Hoş geldiniz ekranı
